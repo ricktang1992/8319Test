@@ -1,5 +1,5 @@
-#OWASP Dependency Check Tool - ML4Cyber
-##Developed by The Tech Titans
+# OWASP Dependency Check Tool - ML4Cyber
+## Developed by The Tech Titans
   _Mandeep Singh
   _Christopher St.Aubin
   _Ziyao Tang
