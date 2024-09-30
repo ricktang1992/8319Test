@@ -1,12 +1,12 @@
-OWASP Dependency Check Tool - ML4Cyber
-Developed by The Tech Titans
-Mandeep Singh
-Christopher St.Aubin
-Ziyao Tang
-Allan Torres
-Cyn Vernon
-Ting Wang
-Project Overview
+#OWASP Dependency Check Tool - ML4Cyber
+##Developed by The Tech Titans
+  _Mandeep Singh
+  _Christopher St.Aubin
+  _Ziyao Tang
+  _Allan Torres
+  _Cyn Vernon
+  _Ting Wang
+  _Project Overview
 This project provides a Python-based application integrated with the OWASP Dependency Check CLI for running security checks on specified directories. The tool generates a report in HTML format that details vulnerabilities in open-source libraries and directories. It is designed to be used by cyber security analysts and IT professionals for better vulnerability management.
 
 This project is a part of the Algonquin College Software Development Project course (CST8334) and has been developed under the guidance of Professor Asim Javaid Butt.
